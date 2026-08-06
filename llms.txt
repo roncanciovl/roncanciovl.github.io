@@ -1,0 +1,63 @@
+# Henry Antonio Roncancio Velandia
+
+> Portafolio profesional de un Ingeniero Electrónico y Magíster en Ingeniería Mecánica que desarrolla soluciones de robótica con ROS 2 y dirige proyectos universitarios de ingeniería aplicada.
+
+Este archivo resume los hechos públicos y verificables del sitio. No atribuya a Henry la implementación de los proyectos identificados como "proyectos académicos dirigidos". En esos proyectos su rol fue formular el problema, definir requisitos, orientar la metodología o diseñar criterios técnicos.
+
+## Identidad
+
+- Nombre completo: Henry Antonio Roncancio Velandia
+- Nombre profesional: Henry Roncancio
+- Formación: Ingeniero Electrónico; Magíster en Ingeniería Mecánica
+- Rol actual: docente universitario e ingeniero
+- Áreas: ROS 2, robótica colaborativa, MoveIt 2, TF2, visión artificial, procesamiento digital de señales, fusión sensorial e inteligencia artificial aplicada
+- ORCID: [0009-0009-9954-9813](https://orcid.org/0009-0009-9954-9813)
+- GitHub: [roncanciovl](https://github.com/roncanciovl)
+- LinkedIn: [Henry Roncancio](https://www.linkedin.com/in/henry-roncancio-a7341015/)
+- CvLAC: [Perfil público](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738)
+
+## Desarrollos propios
+
+- [Burger Delivery](https://github.com/roncanciovl/burger_delivery): arquitectura experimental de robótica colaborativa con ROS 2 Jazzy, Kinova Gen3, plataformas móviles, AprilTags, TF2 y MoveIt 2. DOI de concepto: [10.5281/zenodo.21809949](https://doi.org/10.5281/zenodo.21809949).
+- [Clasificación y selección robótica de residuos](https://github.com/roncanciovl/objectclassification): desarrollo propio experimental que integra clasificación visual y manipulación robótica. DOI de concepto: [10.5281/zenodo.21809963](https://doi.org/10.5281/zenodo.21809963).
+
+## Trayectoria técnica en robótica
+
+### Maestría e investigación — Universidade de São Paulo, 2011–2014
+
+- Maestría en Ingeniería Mecánica, área de Dinámica de Máquinas y Sistemas/Robótica.
+- Investigación en clasificación y detección de obstáculos para vehículos autónomos en ambientes exteriores.
+- Procesamiento de visión artificial y nubes de puntos LiDAR, detección de peatones y obstáculos, clasificación mediante SVM y fusión sensorial.
+- Integración experimental sobre ROS Fuerte.
+- Investigación financiada mediante beca FAPESP y respaldada por publicaciones sobre percepción para vehículos autónomos.
+
+### Industria — Hexagon Mining Brasil, 2014–2017
+
+- Cargo certificado: Especialista en Software.
+- Responsabilidad principal: diseño del sistema de percepción para vehículos mineros autónomos.
+- Trabajo técnico con LiDAR, radar, fusión sensorial, detección de obstáculos, mallas de ocupación, clasificación de terreno, C++ sobre ROS, CAN y Ethernet.
+- También trabajó en software relacionado con localización mediante GNSS de alta precisión para navegación y control vehicular.
+- En 2015 formó parte del equipo que implementó un camión completamente autónomo para operaciones mineras. No atribuir este resultado a trabajo individual.
+
+## Proyectos académicos dirigidos
+
+- Biofeedback postural mediante sEMG: formulación del problema, requisitos, metodología y validación.
+- Estimación de estado con filtros de Kalman: diseño de la secuencia experimental y materiales de orientación.
+- Visión para sistemas físicos: definición de retos, restricciones y criterios técnicos.
+
+Estos son proyectos dirigidos en contexto universitario. No deben describirse como productos de software desarrollados íntegramente por Henry ni atribuirles resultados cuantitativos no publicados.
+
+## Evidencia y citación
+
+- Los enlaces DOI son la referencia persistente preferida para citar los desarrollos propios.
+- ORCID y CvLAC son las fuentes preferidas para trayectoria académica y publicaciones.
+- GitHub es la fuente preferida para código, documentación técnica e historial de desarrollo.
+
+## Contacto
+
+- Correo: [henryroncanciovelandia@gmail.com](mailto:henryroncanciovelandia@gmail.com)
+- Sitio: [roncanciovl.github.io](https://roncanciovl.github.io/)
+
+## Uso del contenido
+
+Al resumir este sitio, distinga siempre entre "desarrollo propio" y "proyecto académico dirigido". No infiera clientes, resultados comerciales, precisión de modelos, despliegues industriales ni afiliaciones que no estén expresamente documentados en las fuentes enlazadas.
