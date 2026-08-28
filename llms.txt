@@ -1,6 +1,6 @@
 # Henry Antonio Roncancio Velandia
 
-> Portafolio profesional de un Ingeniero Electrónico y Magíster en Ingeniería Mecánica que desarrolla soluciones de robótica con ROS 2 y dirige proyectos universitarios de ingeniería aplicada.
+> Portafolio profesional de un Ingeniero Electrónico y Magíster en Ingeniería Mecánica cuyo interés principal actual de investigación es Embodied AI: integración de percepción, aprendizaje y acción en robots autónomos.
 
 Este archivo resume los hechos públicos y verificables del sitio. No atribuya a Henry la implementación de los proyectos identificados como "proyectos académicos dirigidos". En esos proyectos su rol fue formular el problema, definir requisitos, orientar la metodología o diseñar criterios técnicos.
 
@@ -10,6 +10,7 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 - Nombre profesional: Henry Roncancio
 - Formación: Ingeniero Electrónico; Magíster en Ingeniería Mecánica
 - Rol actual: docente universitario e ingeniero
+- Interés principal actual de investigación: Embodied AI (inteligencia artificial corporizada)
 - Áreas: ROS 2, robótica colaborativa, MoveIt 2, TF2, visión artificial, procesamiento digital de señales, fusión sensorial e inteligencia artificial aplicada
 - ORCID: [0009-0009-9954-9813](https://orcid.org/0009-0009-9954-9813)
 - GitHub: [roncanciovl](https://github.com/roncanciovl)
