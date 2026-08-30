@@ -22,6 +22,10 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 - [Burger Delivery](https://github.com/roncanciovl/burger_delivery): arquitectura experimental de robótica colaborativa con ROS 2 Jazzy, Kinova Gen3, plataformas móviles, AprilTags, TF2 y MoveIt 2. DOI de concepto: [10.5281/zenodo.21809949](https://doi.org/10.5281/zenodo.21809949).
 - [Clasificación y selección robótica de residuos](https://github.com/roncanciovl/objectclassification): desarrollo propio experimental que integra clasificación visual y manipulación robótica. DOI de concepto: [10.5281/zenodo.21809963](https://doi.org/10.5281/zenodo.21809963).
 
+## Proyecto activo de investigación
+
+- [Awesome Embodied AI & Sim2Real](https://github.com/roncanciovl/awesome-embodied-ai): mapa vivo de evidencia creado y mantenido por Henry Roncancio. Organiza 41 trabajos con metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y Sim2Real. Es un proyecto personal en desarrollo y todavía no tiene DOI ni debe describirse como publicación arbitrada.
+
 ## Trayectoria técnica en robótica
 
 ### Maestría e investigación — Universidade de São Paulo, 2011–2014
