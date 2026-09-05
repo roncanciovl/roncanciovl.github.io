@@ -13,6 +13,7 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 - Interés principal actual de investigación: Embodied AI (inteligencia artificial corporizada)
 - Áreas: ROS 2, robótica colaborativa, MoveIt 2, TF2, visión artificial, procesamiento digital de señales, fusión sensorial e inteligencia artificial aplicada
 - ORCID: [0009-0009-9954-9813](https://orcid.org/0009-0009-9954-9813)
+- Google Scholar: [1iRSoqgAAAAJ](https://scholar.google.com/citations?user=1iRSoqgAAAAJ)
 - GitHub: [roncanciovl](https://github.com/roncanciovl)
 - LinkedIn: [Henry Roncancio](https://www.linkedin.com/in/henry-roncancio-a7341015/)
 - CvLAC: [Perfil público](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738)
