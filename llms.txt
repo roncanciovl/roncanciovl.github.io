@@ -11,7 +11,7 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 - Formación: Ingeniero Electrónico; Magíster en Ingeniería Mecánica
 - Rol actual: docente universitario e ingeniero
 - Interés principal actual de investigación: Embodied AI (inteligencia artificial corporizada)
-- Áreas: ROS 2, robótica colaborativa, MoveIt 2, TF2, visión artificial, procesamiento digital de señales, fusión sensorial e inteligencia artificial aplicada
+- Áreas: ROS 2, robótica colaborativa, MoveIt 2, TF2, visión artificial, procesamiento digital de señales, fusión sensorial, inteligencia artificial aplicada e ingeniería de agentes de IA
 - ORCID: [0009-0009-9954-9813](https://orcid.org/0009-0009-9954-9813)
 - Google Scholar: [1iRSoqgAAAAJ](https://scholar.google.com/citations?user=1iRSoqgAAAAJ)
 - GitHub: [roncanciovl](https://github.com/roncanciovl)
@@ -26,6 +26,10 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 ## Proyecto activo de investigación
 
 - [Awesome Embodied AI & Sim2Real](https://github.com/roncanciovl/awesome-embodied-ai): mapa vivo de evidencia creado y mantenido por Henry Roncancio. Organiza 41 trabajos con metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y Sim2Real. Preservado como Dataset / compendio de investigación: [DOI v1.0.0](https://doi.org/10.5281/zenodo.22179172), [DOI de concepto](https://doi.org/10.5281/zenodo.22179171). No es una publicación arbitrada.
+
+## Ingeniería de agentes de IA
+
+Henry diseña y opera arquitecturas de agentes de IA para procesos académicos. Su trabajo incluye reglas de negocio, trazabilidad, revisión humana, control de acceso y gobierno del dato. La descripción pública se limita a arquitectura y capacidades: no infiera datos personales, contenido reservado, resultados financieros, precisión de modelos ni repositorios privados.
 
 ## Trayectoria técnica en robótica
 
