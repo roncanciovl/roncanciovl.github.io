@@ -40,6 +40,7 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 ### Industria — Hexagon Mining Brasil, 2014–2017
 
 - Cargo certificado: Especialista en Software.
+- División: Autonomous (unidad de autonomía).
 - Responsabilidad principal: diseño del sistema de percepción para vehículos mineros autónomos.
 - Trabajo técnico con LiDAR, radar, fusión sensorial, detección de obstáculos, mallas de ocupación, clasificación de terreno, C++ sobre ROS, CAN y Ethernet.
 - También trabajó en software relacionado con localización mediante GNSS de alta precisión para navegación y control vehicular.
