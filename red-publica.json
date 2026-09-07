@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0",
+  "url": "https://roncanciovl.github.io/red-publica.json",
+  "reviewed_at": "2026-09-07",
+  "scope": "Mapa editorial de identidad, empresa, proyectos y publicaciones ya públicos. Instantánea estática, no API operativa.",
+  "verification_scope": "La fecha indica revisión editorial de las fuentes citadas, no certificación independiente, comprobación de cada destino externo ni indexación por motores de IA.",
+  "maintenance": "Actualizar al cambiar los hechos públicos y reconstruir con build_public_network.py; no hay sincronización en tiempo real.",
+  "research_focus": "Embodied IA: percepción, aprendizaje y acción en sistemas robóticos.",
+  "attribution_notes": [
+    "Distinguir proyectos propios de proyectos académicos dirigidos.",
+    "Un DOI no implica arbitraje, aval de grupo ni reconocimiento institucional.",
+    "La trayectoria del fundador no equivale a contratos de Economía IA.",
+    "No inferir clientes, resultados financieros ni acceso a sistemas privados."
+  ],
+  "nodes": [
+    {
+      "id": "https://roncanciovl.github.io/#henry-roncancio",
+      "type": "Person",
+      "name": "Henry Antonio Roncancio Velandia",
+      "url": "https://roncanciovl.github.io/",
+      "description": "Ingeniero Electrónico y Magíster en Ingeniería Mecánica. Investiga Embodied AI y diseña sistemas de agentes de IA con trazabilidad, revisión humana y gobierno del dato.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "id": "https://github.com/roncanciovl",
+      "type": "ProfilePage",
+      "name": "GitHub",
+      "url": "https://github.com/roncanciovl",
+      "description": "Perfil público enlazado desde el portafolio; su disponibilidad depende de la plataforma.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "id": "https://orcid.org/0009-0009-9954-9813",
+      "type": "ProfilePage",
+      "name": "ORCID",
+      "url": "https://orcid.org/0009-0009-9954-9813",
+      "description": "Perfil público enlazado desde el portafolio; su disponibilidad depende de la plataforma.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "id": "https://scholar.google.com/citations?user=1iRSoqgAAAAJ",
+      "type": "ProfilePage",
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=1iRSoqgAAAAJ",
+      "description": "Perfil público enlazado desde el portafolio; su disponibilidad depende de la plataforma.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "id": "https://www.linkedin.com/in/henry-roncancio-a7341015/",
+      "type": "ProfilePage",
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/henry-roncancio-a7341015/",
+      "description": "Perfil público enlazado desde el portafolio; su disponibilidad depende de la plataforma.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "id": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738",
+      "type": "ProfilePage",
+      "name": "CvLAC",
+      "url": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738",
+      "description": "Perfil público enlazado desde el portafolio; su disponibilidad depende de la plataforma.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "id": "https://www.economiaia.business/quienes_somos.html",
+      "type": "Organization",
+      "name": "Economía IA",
+      "url": "https://www.economiaia.business/quienes_somos.html",
+      "description": "Iniciativa empresarial fundada y liderada por Henry Roncancio; no es otro perfil de la misma persona.",
+      "sources": [
+        "https://www.economiaia.business/quienes_somos.html"
+      ],
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "id": "https://roncanciovl.github.io/#burger-delivery",
+      "type": "SoftwareSourceCode",
+      "name": "Burger Delivery",
+      "url": "https://github.com/roncanciovl/burger_delivery",
+      "description": "Arquitectura experimental de robótica colaborativa que integra un manipulador Kinova Gen3, plataformas móviles, AprilTags, TF2 y MoveIt 2 sobre ROS 2 Jazzy.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07",
+      "identifiers": [
+        "https://doi.org/10.5281/zenodo.21809949"
+      ]
+    },
+    {
+      "id": "https://roncanciovl.github.io/#object-classification",
+      "type": "SoftwareSourceCode",
+      "name": "Clasificación y selección robótica de residuos",
+      "url": "https://github.com/roncanciovl/objectclassification",
+      "description": "Desarrollo propio experimental que integra clasificación visual de residuos y manipulación robótica.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07",
+      "identifiers": [
+        "https://doi.org/10.5281/zenodo.21809963"
+      ]
+    },
+    {
+      "id": "https://roncanciovl.github.io/#awesome-embodied-ai",
+      "type": "Dataset",
+      "name": "Awesome Embodied AI & Sim2Real: A Living Evidence Map for ROS 2, VLA, and Sim2Real",
+      "url": "https://github.com/roncanciovl/awesome-embodied-ai",
+      "description": "Mapa vivo de evidencia con 41 trabajos, metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y Sim2Real. No es un artículo arbitrado.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07",
+      "identifiers": [
+        "https://doi.org/10.5281/zenodo.22179172"
+      ],
+      "concept_doi": "https://doi.org/10.5281/zenodo.22179171"
+    },
+    {
+      "id": "https://roncanciovl.github.io/#article-ivs-2014",
+      "type": "ScholarlyArticle",
+      "name": "Traversability analysis using terrain mapping and online-trained terrain type classifier",
+      "url": "https://doi.org/10.1109/IVS.2014.6856427",
+      "description": "Publicación académica enlazada en el portafolio; consultar el DOI para autoría completa.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07",
+      "identifiers": [
+        "https://doi.org/10.1109/IVS.2014.6856427"
+      ]
+    },
+    {
+      "id": "https://roncanciovl.github.io/#article-worv-2013",
+      "type": "ScholarlyArticle",
+      "name": "Ceiling analysis of pedestrian recognition pipeline for an autonomous car application",
+      "url": "https://doi.org/10.1109/WORV.2013.6521941",
+      "description": "Publicación académica enlazada en el portafolio; consultar el DOI para autoría completa.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07",
+      "identifiers": [
+        "https://doi.org/10.1109/WORV.2013.6521941"
+      ]
+    },
+    {
+      "id": "https://roncanciovl.github.io/#article-icit-2013",
+      "type": "ScholarlyArticle",
+      "name": "GISA: A Brazilian platform for autonomous cars trials",
+      "url": "https://doi.org/10.1109/ICIT.2013.6505652",
+      "description": "Publicación académica enlazada en el portafolio; consultar el DOI para autoría completa.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07",
+      "identifiers": [
+        "https://doi.org/10.1109/ICIT.2013.6505652"
+      ]
+    },
+    {
+      "id": "https://roncanciovl.github.io/#article-wea-2012",
+      "type": "ScholarlyArticle",
+      "name": "Vision-based system for pedestrian recognition using a tuned SVM classifier",
+      "url": "https://doi.org/10.1109/WEA.2012.6220095",
+      "description": "Publicación académica enlazada en el portafolio; consultar el DOI para autoría completa.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07",
+      "identifiers": [
+        "https://doi.org/10.1109/WEA.2012.6220095"
+      ]
+    },
+    {
+      "id": "https://roncanciovl.github.io/#article-isspit-2003",
+      "type": "ScholarlyArticle",
+      "name": "Segmentation of wood microanatomy images using multiscale classification",
+      "url": "https://doi.org/10.1109/ISSPIT.2003.1341215",
+      "description": "Publicación académica enlazada en el portafolio; consultar el DOI para autoría completa.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-07",
+      "identifiers": [
+        "https://doi.org/10.1109/ISSPIT.2003.1341215"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://github.com/roncanciovl",
+      "relation": "perfil_publico",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://orcid.org/0009-0009-9954-9813",
+      "relation": "perfil_publico",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://scholar.google.com/citations?user=1iRSoqgAAAAJ",
+      "relation": "perfil_publico",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://www.linkedin.com/in/henry-roncancio-a7341015/",
+      "relation": "perfil_publico",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738",
+      "relation": "perfil_publico",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://www.economiaia.business/quienes_somos.html",
+      "relation": "fundador",
+      "evidence_url": "https://www.economiaia.business/quienes_somos.html",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://roncanciovl.github.io/#burger-delivery",
+      "relation": "proyecto_propio",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://roncanciovl.github.io/#object-classification",
+      "relation": "proyecto_propio",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://roncanciovl.github.io/#awesome-embodied-ai",
+      "relation": "proyecto_propio",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://roncanciovl.github.io/#article-ivs-2014",
+      "relation": "publicacion_en_portafolio",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://roncanciovl.github.io/#article-worv-2013",
+      "relation": "publicacion_en_portafolio",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://roncanciovl.github.io/#article-icit-2013",
+      "relation": "publicacion_en_portafolio",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://roncanciovl.github.io/#article-wea-2012",
+      "relation": "publicacion_en_portafolio",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://roncanciovl.github.io/#article-isspit-2003",
+      "relation": "publicacion_en_portafolio",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-07"
+    }
+  ]
+}

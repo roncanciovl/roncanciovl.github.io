@@ -6,6 +6,10 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 
 ## Identidad
 
+- Revisión editorial de esta guía: 2026-09-07. No implica verificación independiente de cada plataforma ni indexación.
+- [Mapa público de relaciones](https://roncanciovl.github.io/red-publica.html): perfiles, empresa, proyectos y publicaciones con fuentes y fecha de revisión.
+- [Mapa estructurado JSON](https://roncanciovl.github.io/red-publica.json): instantánea pública de solo lectura; no es una API operativa ni ofrece acceso a información privada.
+
 - Nombre completo: Henry Antonio Roncancio Velandia
 - Nombre profesional: Henry Roncancio
 - Formación: Ingeniero Electrónico; Magíster en Ingeniería Mecánica
@@ -17,6 +21,11 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 - GitHub: [roncanciovl](https://github.com/roncanciovl)
 - LinkedIn: [Henry Roncancio](https://www.linkedin.com/in/henry-roncancio-a7341015/)
 - CvLAC: [Perfil público](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738)
+
+## Iniciativa empresarial
+
+- [Economía IA — página oficial](https://www.economiaia.business/quienes_somos.html): organización fundada y liderada por Henry Roncancio, orientada a agentes de IA y automatización. Es una organización relacionada, no otro nombre de Henry. La trayectoria académica del fundador no equivale a contratos de la empresa.
+- [Perfil complementario del fundador](https://www.economiaia.business/henry_roncancio.html).
 
 ## Desarrollos propios
 
