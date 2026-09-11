@@ -10,7 +10,7 @@ from html.parser import HTMLParser
 
 ROOT = Path(__file__).resolve().parent
 BASE = 'https://roncanciovl.github.io/'
-REVIEWED = '2026-09-07'
+REVIEWED = '2026-09-11'
 
 
 class JsonLdParser(HTMLParser):
