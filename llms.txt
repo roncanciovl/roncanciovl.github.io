@@ -6,7 +6,7 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 
 ## Identidad
 
-- Revisión editorial de esta guía: 2026-09-07. No implica verificación independiente de cada plataforma ni indexación.
+- Revisión editorial de esta guía: 2026-09-12. No implica verificación independiente de cada plataforma ni indexación.
 - [Mapa público de relaciones](https://roncanciovl.github.io/red-publica.html): perfiles, empresa, proyectos y publicaciones con fuentes y fecha de revisión.
 - [Mapa estructurado JSON](https://roncanciovl.github.io/red-publica.json): instantánea pública de solo lectura; no es una API operativa ni ofrece acceso a información privada.
 
@@ -34,7 +34,11 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 
 ## Proyecto activo de investigación
 
-- [Awesome Embodied AI & Sim2Real](https://github.com/roncanciovl/awesome-embodied-ai): mapa vivo de evidencia creado y mantenido por Henry Roncancio. Organiza 41 trabajos con metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y Sim2Real. Preservado como Dataset / compendio de investigación: [DOI v1.0.0](https://doi.org/10.5281/zenodo.22179172), [DOI de concepto](https://doi.org/10.5281/zenodo.22179171). No es una publicación arbitrada.
+- [Awesome Embodied AI & Sim2Real](https://github.com/roncanciovl/awesome-embodied-ai): mapa vivo de evidencia creado y mantenido por Henry Roncancio. La versión v1.1.0 organiza 55 trabajos con metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y Sim2Real. Preservado como Dataset / compendio de investigación: [DOI de versión](https://doi.org/10.5281/zenodo.22714216), [DOI de concepto](https://doi.org/10.5281/zenodo.22179171). No es una publicación arbitrada.
+
+## Ponencias y divulgación
+
+- [Entre el razonamiento y la acción](https://ponencia-web.pages.dev/): ponencia dictada el 10 de septiembre de 2026 en el Technology Camp de la Universidad Militar Nueva Granada, sobre IA corporizada, integración entre razonamiento y acción física, fallos silenciosos y responsabilidad en sistemas autónomos.
 
 ## Ingeniería de agentes de IA
 
@@ -44,7 +48,7 @@ Henry diseña y opera arquitecturas de agentes de IA para procesos académicos. 
 
 ### Maestría e investigación — Universidade de São Paulo, 2011–2014
 
-- Maestría en Ingeniería Mecánica, área de Dinámica de Máquinas y Sistemas/Robótica.
+- Maestría en Ingeniería Mecánica, área oficial de Dinámica de Máquinas y Sistemas; proyecto aplicado a robótica móvil y vehículos autónomos.
 - Investigación en clasificación y detección de obstáculos para vehículos autónomos en ambientes exteriores.
 - Procesamiento de visión artificial y nubes de puntos LiDAR, detección de peatones y obstáculos, clasificación mediante SVM y fusión sensorial.
 - Integración experimental sobre ROS Fuerte.
