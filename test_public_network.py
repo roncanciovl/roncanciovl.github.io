@@ -24,6 +24,11 @@ class PublicGraphTests(unittest.TestCase):
         person = next(n for n in ld['@graph'] if n['@id'] == PERSON_ID)
         self.assertFalse(any('/company/' in url for url in person['sameAs']))
         self.assertNotIn(COMPANY_ID, person['sameAs'])
+        economia_ia_profile = next(
+            n for n in payload['nodes']
+            if n['id'] == 'https://www.economiaia.business/henry_roncancio.html'
+        )
+        self.assertEqual(economia_ia_profile['name'], 'Perfil de Henry en Economía IA')
         self.assertTrue(all(r['source'] in ids and r['target'] in ids for r in payload['relations']))
 
     def test_new_entity_type_and_sixth_profile_are_not_silently_dropped(self):

@@ -54,7 +54,11 @@ def read_graph(source):
 
 
 def profile_name(url):
-    host = urlparse(url).hostname
+    parsed = urlparse(url)
+    if (parsed.hostname, parsed.path.rstrip('/')) == (
+            'www.economiaia.business', '/henry_roncancio.html'):
+        return 'Perfil de Henry en Economía IA'
+    host = parsed.hostname
     return {'github.com': 'GitHub', 'orcid.org': 'ORCID',
             'scholar.google.com': 'Google Scholar', 'www.linkedin.com': 'LinkedIn',
             'scienti.minciencias.gov.co': 'CvLAC'}.get(host, host or url)
