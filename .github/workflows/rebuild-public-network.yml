@@ -6,10 +6,16 @@ on:
     paths:
       - 'index.html'
       - 'build_public_network.py'
+      - 'test_public_network.py'
+      - '.github/workflows/rebuild-public-network.yml'
   workflow_dispatch: {}
 
 permissions:
   contents: write
+
+concurrency:
+  group: public-network-main
+  cancel-in-progress: false
 
 jobs:
   rebuild:
@@ -18,17 +24,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Rebuild red-publica.json and red-publica.html
+      - name: Test public entity coverage and attribution
+        run: python3 -m unittest -v test_public_network.py
+
+      - name: Rebuild public HTML, JSON and JSON-LD
         run: python3 build_public_network.py
+
+      - name: Check deterministic output
+        run: python3 build_public_network.py --check
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add red-publica.json red-publica.html
+          git add red-publica.json red-publica.jsonld red-publica.html
           if git diff --cached --quiet; then
-            echo "No changes to red-publica.json/html"
+            echo "Public graph is up to date"
           else
-            git commit -m "Auto-rebuild red-publica.json/html from index.html"
+            git commit -m "Rebuild public HTML, JSON and JSON-LD from index.html"
             git push
           fi
