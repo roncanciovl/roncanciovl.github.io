@@ -1,8 +1,8 @@
 {
   "schema_version": "2.0",
   "url": "https://roncanciovl.github.io/red-publica.json",
-  "reviewed_at": "2026-09-20",
-  "source_sha256": "7ab8d823ea7dbba29cee9d74112393ef901333f0938953047e2ffd2a047b0f6b",
+  "reviewed_at": "2026-09-21",
+  "source_sha256": "fe16301fe22d88fe07e81a84e5965faecfc92f95296e3a0d9a242da0f6c92f59",
   "source_url": "https://roncanciovl.github.io/",
   "jsonld_url": "https://roncanciovl.github.io/red-publica.jsonld",
   "scope": "Identidad, empresa, trayectoria, formación, competencias y producción pública.",
@@ -24,14 +24,14 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "url": "https://roncanciovl.github.io/",
         "name": "Henry Roncancio | Robótica e inteligencia artificial aplicada",
         "description": "Portafolio profesional y académico de Henry Antonio Roncancio Velandia.",
         "inLanguage": "es-CO",
         "dateCreated": "2026-07-22",
-        "dateModified": "2026-09-20",
+        "dateModified": "2026-09-21",
         "mainEntity": {
           "@id": "https://roncanciovl.github.io/#henry-roncancio"
         },
@@ -84,7 +84,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Eventos y reservas de Economía IA",
         "description": "Superficie pública de eventos y charlas de Economía IA, organizada por la empresa y presentada por Henry Roncancio.",
@@ -111,7 +111,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Henry Antonio Roncancio Velandia",
         "alternateName": [
@@ -168,7 +168,8 @@
           "https://scholar.google.com/citations?user=1iRSoqgAAAAJ",
           "https://www.linkedin.com/in/henry-roncancio-a7341015/",
           "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738",
-          "https://www.economiaia.business/henry_roncancio.html"
+          "https://www.economiaia.business/henry_roncancio.html",
+          "https://www.researchgate.net/profile/Henry-Roncancio-2"
         ],
         "subjectOf": [
           {
@@ -275,7 +276,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Burger Delivery",
         "description": "Arquitectura experimental de robótica colaborativa que integra un manipulador Kinova Gen3, plataformas móviles, AprilTags, TF2 y MoveIt 2 sobre ROS 2 Jazzy.",
@@ -300,7 +301,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Clasificación y selección robótica de residuos",
         "description": "Desarrollo propio experimental que integra clasificación visual de residuos y manipulación robótica.",
@@ -326,7 +327,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Awesome Embodied AI & Sim2Real: A Living Evidence Map for ROS 2, VLA, and Sim2Real",
         "description": "Mapa vivo de evidencia con 55 trabajos, metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y Sim2Real.",
@@ -355,7 +356,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Entre el razonamiento y la acción",
         "description": "Ponencia sobre IA corporizada, integración entre razonamiento y acción física, fallos silenciosos y responsabilidad en sistemas autónomos.",
@@ -385,7 +386,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Traversability analysis using terrain mapping and online-trained terrain type classifier",
         "identifier": "https://doi.org/10.1109/IVS.2014.6856427",
@@ -413,7 +414,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Ceiling analysis of pedestrian recognition pipeline for an autonomous car application",
         "identifier": "https://doi.org/10.1109/WORV.2013.6521941",
@@ -441,7 +442,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "GISA: A Brazilian platform for autonomous cars trials",
         "identifier": "https://doi.org/10.1109/ICIT.2013.6505652",
@@ -469,7 +470,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Vision-based system for pedestrian recognition using a tuned SVM classifier",
         "identifier": "https://doi.org/10.1109/WEA.2012.6220095",
@@ -497,7 +498,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Segmentation of wood microanatomy images using multiscale classification",
         "identifier": "https://doi.org/10.1109/ISSPIT.2003.1341215",
@@ -525,7 +526,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Universidad Militar Nueva Granada",
         "url": "https://roncanciovl.github.io/red-publica.html#umng"
@@ -540,7 +541,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Universidad de La Salle",
         "url": "https://roncanciovl.github.io/red-publica.html#salle"
@@ -555,7 +556,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Universidade de São Paulo",
         "url": "https://roncanciovl.github.io/red-publica.html#usp"
@@ -570,7 +571,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Universidad Distrital Francisco José de Caldas",
         "url": "https://roncanciovl.github.io/red-publica.html#distrital"
@@ -585,7 +586,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Università di Parma — VisLab",
         "url": "https://roncanciovl.github.io/red-publica.html#parma"
@@ -600,7 +601,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Hexagon Mining Brasil",
         "url": "https://roncanciovl.github.io/red-publica.html#hexagon"
@@ -615,7 +616,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Devex Mining",
         "url": "https://roncanciovl.github.io/red-publica.html#devex"
@@ -630,7 +631,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "ULTRA S.A.",
         "url": "https://roncanciovl.github.io/red-publica.html#ultra"
@@ -645,7 +646,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "ROCATEC LTDA",
         "url": "https://roncanciovl.github.io/red-publica.html#rocatec"
@@ -660,7 +661,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Satlock",
         "url": "https://roncanciovl.github.io/red-publica.html#satlock"
@@ -675,7 +676,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Economía IA",
         "legalName": "economiaia LLC",
@@ -699,7 +700,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "credentialCategory": "degree",
         "name": "Ingeniero Electrónico",
@@ -720,7 +721,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "credentialCategory": "degree",
         "name": "Magíster en Ingeniería Mecánica",
@@ -741,7 +742,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "ROS",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-1"
@@ -756,7 +757,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "ROS Fuerte",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-2"
@@ -771,7 +772,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "ROS 2",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-3"
@@ -786,7 +787,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Robótica colaborativa",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-4"
@@ -801,7 +802,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "MoveIt 2",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-5"
@@ -816,7 +817,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "TF2",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-6"
@@ -831,7 +832,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Kinova Gen3",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-7"
@@ -846,7 +847,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Procesamiento digital de señales",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-8"
@@ -861,7 +862,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Visión artificial",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-9"
@@ -876,7 +877,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Fusión sensorial",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-10"
@@ -891,7 +892,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Percepción para vehículos autónomos",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-11"
@@ -906,7 +907,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Embodied AI",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-12"
@@ -921,7 +922,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Inteligencia artificial aplicada",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-13"
@@ -936,7 +937,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Ingeniería de agentes de IA",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-14"
@@ -951,7 +952,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Sistemas multiagente",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-15"
@@ -966,7 +967,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Orquestación con LangGraph",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-16"
@@ -981,7 +982,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Gobierno del dato",
         "url": "https://roncanciovl.github.io/red-publica.html#competencia-17"
@@ -996,7 +997,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Fundador y director — Economía IA",
         "roleName": "Fundador y director",
@@ -1017,7 +1018,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Profesor de Cátedra — Categoría Asociado — Universidad Militar Nueva Granada",
         "roleName": "Profesor de Cátedra — Categoría Asociado",
@@ -1038,7 +1039,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Profesor Magíster I — Universidad de La Salle",
         "roleName": "Profesor Magíster I",
@@ -1060,7 +1061,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Especialista en Software — División Autonomous — Hexagon Mining Brasil",
         "roleName": "Especialista en Software — División Autonomous",
@@ -1082,7 +1083,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Ingeniero de investigación y desarrollo — Devex Mining",
         "roleName": "Ingeniero de investigación y desarrollo",
@@ -1104,7 +1105,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Investigador de maestría — Universidade de São Paulo",
         "roleName": "Investigador de maestría",
@@ -1126,7 +1127,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Investigador invitado — Università di Parma — VisLab",
         "roleName": "Investigador invitado",
@@ -1148,7 +1149,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Ingeniero de desarrollo — ULTRA S.A.",
         "roleName": "Ingeniero de desarrollo",
@@ -1170,7 +1171,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Cofundador y socio — ROCATEC LTDA",
         "roleName": "Cofundador y socio",
@@ -1192,7 +1193,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Consultor independiente — Satlock",
         "roleName": "Consultor independiente",
@@ -1214,7 +1215,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Reconhecimento de Pedestres à Frente de um Veículo de Passeio Usando uma Máquina de Vetor de Suporte Ajustada",
         "datePublished": "2012",
@@ -1234,7 +1235,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20",
+      "reviewed_at": "2026-09-21",
       "properties": {
         "name": "GISA: Plataforma de teste para navegação autônoma em ambiente urbano",
         "datePublished": "2012",
@@ -1254,7 +1255,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "id": "https://orcid.org/0009-0009-9954-9813",
@@ -1265,7 +1266,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "id": "https://scholar.google.com/citations?user=1iRSoqgAAAAJ",
@@ -1276,7 +1277,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "id": "https://www.linkedin.com/in/henry-roncancio-a7341015/",
@@ -1287,7 +1288,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "id": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738",
@@ -1298,7 +1299,7 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "id": "https://www.economiaia.business/henry_roncancio.html",
@@ -1309,7 +1310,18 @@
       "sources": [
         "https://roncanciovl.github.io/"
       ],
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
+    },
+    {
+      "id": "https://www.researchgate.net/profile/Henry-Roncancio-2",
+      "type": "ProfilePage",
+      "name": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Henry-Roncancio-2",
+      "description": "Perfil de la misma persona; consultar la fuente externa.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-21"
     }
   ],
   "relations": [
@@ -1318,560 +1330,567 @@
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "mainEntity",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#burger-delivery",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#object-classification",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#awesome-embodied-ai",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#technology-camp-2026",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#article-ivs-2014",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#article-worv-2013",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#article-icit-2013",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#article-wea-2012",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#article-isspit-2003",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#conem-2012",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#sbein-2012",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#profile-page",
       "target": "https://roncanciovl.github.io/#reservas-eventos-economia-ia",
       "relation": "hasPart",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#reservas-eventos-economia-ia",
       "target": "https://www.economiaia.business/#organization",
       "relation": "isPartOf",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#reservas-eventos-economia-ia",
       "target": "https://www.economiaia.business/#organization",
       "relation": "about",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#reservas-eventos-economia-ia",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "about",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#rol-usp",
       "relation": "affiliation",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#rol-parma",
       "relation": "affiliation",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#rol-rocatec",
       "relation": "affiliation",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#rol-satlock",
       "relation": "affiliation",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#distrital",
       "relation": "alumniOf",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#usp",
       "relation": "alumniOf",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#titulo-electronica",
       "relation": "hasCredential",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#titulo-maestria",
       "relation": "hasCredential",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#reservas-eventos-economia-ia",
       "relation": "subjectOf",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-1",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-2",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-3",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-4",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-5",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-6",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-7",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-8",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-9",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-10",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-11",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-12",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-13",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-14",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-15",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-16",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#competencia-17",
       "relation": "knowsAbout",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://www.economiaia.business/#organization",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#rol-economia-ia",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#rol-umng",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#rol-salle",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#rol-hexagon",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#rol-devex",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#rol-ultra",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#burger-delivery",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "author",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#object-classification",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "author",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#awesome-embodied-ai",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "creator",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#technology-camp-2026",
       "target": "https://roncanciovl.github.io/#umng",
       "relation": "organizer",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#technology-camp-2026",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "performer",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#article-ivs-2014",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "author",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#article-worv-2013",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "author",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#article-icit-2013",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "author",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#article-wea-2012",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "author",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#article-isspit-2003",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "author",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://www.economiaia.business/#organization",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "founder",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#titulo-electronica",
       "target": "https://roncanciovl.github.io/#distrital",
       "relation": "recognizedBy",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#titulo-maestria",
       "target": "https://roncanciovl.github.io/#usp",
       "relation": "recognizedBy",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#rol-economia-ia",
       "target": "https://www.economiaia.business/#organization",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#rol-umng",
       "target": "https://roncanciovl.github.io/#umng",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#rol-salle",
       "target": "https://roncanciovl.github.io/#salle",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#rol-hexagon",
       "target": "https://roncanciovl.github.io/#hexagon",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#rol-devex",
       "target": "https://roncanciovl.github.io/#devex",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#rol-usp",
       "target": "https://roncanciovl.github.io/#usp",
       "relation": "affiliation",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#rol-parma",
       "target": "https://roncanciovl.github.io/#parma",
       "relation": "affiliation",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#rol-ultra",
       "target": "https://roncanciovl.github.io/#ultra",
       "relation": "worksFor",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#rol-rocatec",
       "target": "https://roncanciovl.github.io/#rocatec",
       "relation": "affiliation",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#rol-satlock",
       "target": "https://roncanciovl.github.io/#satlock",
       "relation": "affiliation",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#conem-2012",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "author",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#sbein-2012",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "author",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://github.com/roncanciovl",
       "relation": "sameAs",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://orcid.org/0009-0009-9954-9813",
       "relation": "sameAs",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://scholar.google.com/citations?user=1iRSoqgAAAAJ",
       "relation": "sameAs",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://www.linkedin.com/in/henry-roncancio-a7341015/",
       "relation": "sameAs",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738",
       "relation": "sameAs",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
     },
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://www.economiaia.business/henry_roncancio.html",
       "relation": "sameAs",
       "evidence_url": "https://roncanciovl.github.io/",
-      "reviewed_at": "2026-09-20"
+      "reviewed_at": "2026-09-21"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://www.researchgate.net/profile/Henry-Roncancio-2",
+      "relation": "sameAs",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-21"
     }
   ]
 }

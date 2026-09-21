@@ -29,6 +29,15 @@ class PublicGraphTests(unittest.TestCase):
             if n['id'] == 'https://www.economiaia.business/henry_roncancio.html'
         )
         self.assertEqual(economia_ia_profile['name'], 'Perfil de Henry en Economía IA')
+        researchgate = next(
+            n for n in payload['nodes']
+            if n['id'] == 'https://www.researchgate.net/profile/Henry-Roncancio-2'
+        )
+        self.assertEqual(researchgate['name'], 'ResearchGate')
+        self.assertIn(
+            (PERSON_ID, 'sameAs', researchgate['id']),
+            {(r['source'], r['relation'], r['target']) for r in payload['relations']},
+        )
         self.assertTrue(all(r['source'] in ids and r['target'] in ids for r in payload['relations']))
 
     def test_new_entity_type_and_sixth_profile_are_not_silently_dropped(self):

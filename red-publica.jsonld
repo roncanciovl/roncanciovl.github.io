@@ -9,7 +9,7 @@
       "description": "Portafolio profesional y académico de Henry Antonio Roncancio Velandia.",
       "inLanguage": "es-CO",
       "dateCreated": "2026-07-22",
-      "dateModified": "2026-09-20",
+      "dateModified": "2026-09-21",
       "mainEntity": {
         "@id": "https://roncanciovl.github.io/#henry-roncancio"
       },
@@ -128,7 +128,8 @@
         "https://scholar.google.com/citations?user=1iRSoqgAAAAJ",
         "https://www.linkedin.com/in/henry-roncancio-a7341015/",
         "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738",
-        "https://www.economiaia.business/henry_roncancio.html"
+        "https://www.economiaia.business/henry_roncancio.html",
+        "https://www.researchgate.net/profile/Henry-Roncancio-2"
       ],
       "subjectOf": [
         {
