@@ -9,7 +9,7 @@
       "description": "Portafolio profesional y académico de Henry Antonio Roncancio Velandia.",
       "inLanguage": "es-CO",
       "dateCreated": "2026-07-22",
-      "dateModified": "2026-09-13",
+      "dateModified": "2026-09-20",
       "mainEntity": {
         "@id": "https://roncanciovl.github.io/#henry-roncancio"
       },
@@ -46,6 +46,27 @@
         },
         {
           "@id": "https://roncanciovl.github.io/#sbein-2012"
+        },
+        {
+          "@id": "https://roncanciovl.github.io/#reservas-eventos-economia-ia"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://roncanciovl.github.io/#reservas-eventos-economia-ia",
+      "name": "Eventos y reservas de Economía IA",
+      "description": "Superficie pública de eventos y charlas de Economía IA, organizada por la empresa y presentada por Henry Roncancio.",
+      "url": "https://reservas.economiaia.business/",
+      "isPartOf": {
+        "@id": "https://www.economiaia.business/#organization"
+      },
+      "about": [
+        {
+          "@id": "https://www.economiaia.business/#organization"
+        },
+        {
+          "@id": "https://roncanciovl.github.io/#henry-roncancio"
         }
       ]
     },
@@ -109,11 +130,16 @@
         "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738",
         "https://www.economiaia.business/henry_roncancio.html"
       ],
-      "subjectOf": {
-        "@type": "WebPage",
-        "name": "Red pública profesional",
-        "url": "https://roncanciovl.github.io/red-publica.html"
-      },
+      "subjectOf": [
+        {
+          "@type": "WebPage",
+          "name": "Red pública profesional",
+          "url": "https://roncanciovl.github.io/red-publica.html"
+        },
+        {
+          "@id": "https://roncanciovl.github.io/#reservas-eventos-economia-ia"
+        }
+      ],
       "knowsAbout": [
         {
           "@id": "https://roncanciovl.github.io/#competencia-1"

@@ -42,6 +42,17 @@ class PublicGraphTests(unittest.TestCase):
         self.assertIn(extra['@id'], {n['id'] for n in payload['nodes']})
         self.assertIn('https://example.org/profile', {n['id'] for n in payload['nodes']})
 
+    def test_event_reservations_surface_is_visible_in_public_graph(self):
+        payload, _ = project(self.graph)
+        reservation_id = BASE + '#reservas-eventos-economia-ia'
+        node = next(n for n in payload['nodes'] if n['id'] == reservation_id)
+        self.assertEqual('CollectionPage', node['type'])
+        self.assertEqual('https://reservas.economiaia.business/', node['url'])
+        self.assertIn(
+            (PERSON_ID, 'subjectOf', reservation_id),
+            {(r['source'], r['relation'], r['target']) for r in payload['relations']},
+        )
+
     def test_duplicate_and_dangling_references_fail(self):
         broken = copy.deepcopy(self.graph)
         broken.append(copy.deepcopy(broken[0]))
