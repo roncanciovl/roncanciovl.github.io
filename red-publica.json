@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "url": "https://roncanciovl.github.io/red-publica.json",
   "reviewed_at": "2026-09-21",
-  "source_sha256": "fe16301fe22d88fe07e81a84e5965faecfc92f95296e3a0d9a242da0f6c92f59",
+  "source_sha256": "fdfa37dd6d4d94f384079c5b9bded0a1a040bfbe251432a01f62704f698f28c5",
   "source_url": "https://roncanciovl.github.io/",
   "jsonld_url": "https://roncanciovl.github.io/red-publica.jsonld",
   "scope": "Identidad, empresa, trayectoria, formación, competencias y producción pública.",
@@ -351,16 +351,15 @@
       "id": "https://roncanciovl.github.io/#technology-camp-2026",
       "type": "Event",
       "name": "Entre el razonamiento y la acción",
-      "url": "https://ponencia-web.pages.dev/",
-      "description": "Ponencia sobre IA corporizada, integración entre razonamiento y acción física, fallos silenciosos y responsabilidad en sistemas autónomos.",
+      "url": "https://roncanciovl.github.io/#technology-camp-2026",
+      "description": "Charla sobre IA corporizada, integración entre razonamiento y acción física, fallos silenciosos y responsabilidad en sistemas autónomos.",
       "sources": [
         "https://roncanciovl.github.io/"
       ],
       "reviewed_at": "2026-09-21",
       "properties": {
         "name": "Entre el razonamiento y la acción",
-        "description": "Ponencia sobre IA corporizada, integración entre razonamiento y acción física, fallos silenciosos y responsabilidad en sistemas autónomos.",
-        "url": "https://ponencia-web.pages.dev/",
+        "description": "Charla sobre IA corporizada, integración entre razonamiento y acción física, fallos silenciosos y responsabilidad en sistemas autónomos.",
         "startDate": "2026-09-10T15:00:00-05:00",
         "endDate": "2026-09-10T16:00:00-05:00",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",

@@ -7,7 +7,7 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 ## Identidad
 
 - Revisión editorial de esta guía: 2026-09-21. No implica verificación independiente de cada plataforma ni indexación.
-- [Grafo Schema.org en JSON-LD](https://roncanciovl.github.io/red-publica.jsonld): identidad, roles con periodos, instituciones, títulos, competencias, software, dataset, publicaciones y ponencia. Se genera desde el modelo público del portafolio.
+- [Grafo Schema.org en JSON-LD](https://roncanciovl.github.io/red-publica.jsonld): identidad, roles con periodos, instituciones, títulos, competencias, software, dataset, publicaciones y charla. Se genera desde el modelo público del portafolio.
 - Identificador de la persona: `https://roncanciovl.github.io/#henry-roncancio`.
 - Identificador de Economía IA: `https://www.economiaia.business/#organization`. La relación es `founder` / `worksFor`; persona y organización conservan identidades distintas.
 - [Trayectoria profesional completa publicada](https://roncanciovl.github.io/red-publica.html): Economía IA, UMNG, La Salle, Hexagon Mining, Devex Mining, USP, Parma/VisLab, ULTRA, ROCATEC y consultoría personal para Satlock. Las fechas pueden solaparse. La primera fase de Satlock se declara ejecutada por el titular; certificación externa pendiente y sin publicación de entregables reservados.
@@ -41,9 +41,9 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 
 - [Awesome Embodied AI & Sim2Real](https://github.com/roncanciovl/awesome-embodied-ai): mapa vivo de evidencia creado y mantenido por Henry Roncancio. La versión v1.1.0 organiza 55 trabajos con metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y Sim2Real. Preservado como Dataset / compendio de investigación: [DOI de versión](https://doi.org/10.5281/zenodo.22714216), [DOI de concepto](https://doi.org/10.5281/zenodo.22179171). No es una publicación arbitrada.
 
-## Ponencias y divulgación
+## Charlas y divulgación
 
-- [Entre el razonamiento y la acción](https://ponencia-web.pages.dev/): ponencia dictada el 10 de septiembre de 2026 en el Technology Camp de la Universidad Militar Nueva Granada, sobre IA corporizada, integración entre razonamiento y acción física, fallos silenciosos y responsabilidad en sistemas autónomos.
+- Entre el razonamiento y la acción: charla dictada el 10 de septiembre de 2026 en el Technology Camp de la Universidad Militar Nueva Granada, sobre IA corporizada, integración entre razonamiento y acción física, fallos silenciosos y responsabilidad en sistemas autónomos.
 
 ## Ingeniería de agentes de IA
 
