@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "url": "https://roncanciovl.github.io/red-publica.json",
   "reviewed_at": "2026-09-21",
-  "source_sha256": "35a96114e9b42897a52489160b3ac35ba841e03303b653d4e1db5bc507a5dd9e",
+  "source_sha256": "92a1b02b87fbf495ec09b0f9f4673e50f39b7d1a3823cd1404ad7cfddbfe5187",
   "source_url": "https://roncanciovl.github.io/",
   "jsonld_url": "https://roncanciovl.github.io/red-publica.jsonld",
   "scope": "Identidad, empresa, trayectoria, formación, competencias y producción pública.",
@@ -160,6 +160,12 @@
           },
           {
             "@id": "https://roncanciovl.github.io/#titulo-maestria"
+          },
+          {
+            "@id": "https://roncanciovl.github.io/#certificado-hpc-2024"
+          },
+          {
+            "@id": "https://roncanciovl.github.io/#certificado-nem-2018"
           }
         ],
         "sameAs": [
@@ -730,6 +736,50 @@
         },
         "dateCreated": "2014",
         "url": "https://roncanciovl.github.io/red-publica.html#titulo-maestria"
+      }
+    },
+    {
+      "id": "https://roncanciovl.github.io/#certificado-hpc-2024",
+      "type": "EducationalOccupationalCredential",
+      "name": "7th HPC Summer School",
+      "url": "https://roncanciovl.github.io/red-publica.html#certificado-hpc-2024",
+      "description": "Constancia de asistencia al curso de computación de alto desempeño, 17 a 19 de junio de 2024, 20 horas académicas.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-21",
+      "properties": {
+        "credentialCategory": "certificate",
+        "name": "7th HPC Summer School",
+        "description": "Constancia de asistencia al curso de computación de alto desempeño, 17 a 19 de junio de 2024, 20 horas académicas.",
+        "recognizedBy": {
+          "@type": "CollegeOrUniversity",
+          "name": "Universidad de los Andes — Departamento de Física y Departamento de Ingeniería de Sistemas y Computación"
+        },
+        "dateCreated": "2024-07-10",
+        "url": "https://roncanciovl.github.io/red-publica.html#certificado-hpc-2024"
+      }
+    },
+    {
+      "id": "https://roncanciovl.github.io/#certificado-nem-2018",
+      "type": "EducationalOccupationalCredential",
+      "name": "Workshop para Desarrolladores con Shin Tatt Wong",
+      "url": "https://roncanciovl.github.io/red-publica.html#certificado-nem-2018",
+      "description": "Constancia de asistencia al workshop para desarrolladores de la plataforma blockchain NEM, 7 de noviembre de 2018.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-21",
+      "properties": {
+        "credentialCategory": "certificate",
+        "name": "Workshop para Desarrolladores con Shin Tatt Wong",
+        "description": "Constancia de asistencia al workshop para desarrolladores de la plataforma blockchain NEM, 7 de noviembre de 2018.",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Fundación NEM.io — Embajada local en Colombia"
+        },
+        "dateCreated": "2018-11-07",
+        "url": "https://roncanciovl.github.io/red-publica.html#certificado-nem-2018"
       }
     },
     {
@@ -1488,6 +1538,20 @@
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#titulo-maestria",
+      "relation": "hasCredential",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-21"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://roncanciovl.github.io/#certificado-hpc-2024",
+      "relation": "hasCredential",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-21"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://roncanciovl.github.io/#certificado-nem-2018",
       "relation": "hasCredential",
       "evidence_url": "https://roncanciovl.github.io/",
       "reviewed_at": "2026-09-21"
