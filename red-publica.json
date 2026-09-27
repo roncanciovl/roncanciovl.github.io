@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "url": "https://roncanciovl.github.io/red-publica.json",
   "reviewed_at": "2026-09-21",
-  "source_sha256": "92a1b02b87fbf495ec09b0f9f4673e50f39b7d1a3823cd1404ad7cfddbfe5187",
+  "source_sha256": "02cff00c6a561fd837b2640279132479701fcd0efc2f0d747fe412be7bc962ab",
   "source_url": "https://roncanciovl.github.io/",
   "jsonld_url": "https://roncanciovl.github.io/red-publica.jsonld",
   "scope": "Identidad, empresa, trayectoria, formación, competencias y producción pública.",
@@ -338,18 +338,18 @@
         "name": "Awesome Embodied AI & Sim2Real: A Living Evidence Map for ROS 2, VLA, and Sim2Real",
         "description": "Mapa vivo de evidencia cuya rama main reúne 62 trabajos, con metadatos estructurados, protocolo reproducible y análisis de brechas sobre VLA/VLM/LLM, ROS 2, Edge AI y Sim2Real.",
         "url": "https://github.com/roncanciovl/awesome-embodied-ai",
-        "identifier": "https://doi.org/10.5281/zenodo.22714216",
+        "identifier": "https://doi.org/10.5281/zenodo.22984143",
         "sameAs": [
           "https://doi.org/10.5281/zenodo.22179171"
         ],
         "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "dateModified": "2026-09-24",
+        "dateModified": "2026-09-27",
         "creator": {
           "@id": "https://roncanciovl.github.io/#henry-roncancio"
         }
       },
       "identifiers": [
-        "https://doi.org/10.5281/zenodo.22714216"
+        "https://doi.org/10.5281/zenodo.22984143"
       ],
       "concept_doi": "https://doi.org/10.5281/zenodo.22179171"
     },
