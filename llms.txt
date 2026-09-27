@@ -22,6 +22,7 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 - Áreas: ROS 2, robótica colaborativa, MoveIt 2, TF2, visión artificial, procesamiento digital de señales, fusión sensorial, inteligencia artificial aplicada e ingeniería de agentes de IA
 - ORCID: [0009-0009-9954-9813](https://orcid.org/0009-0009-9954-9813)
 - Google Scholar: [1iRSoqgAAAAJ](https://scholar.google.com/citations?user=1iRSoqgAAAAJ)
+- Scopus Author ID: [55319860900](https://www.scopus.com/authid/detail.uri?authorId=55319860900) — cuatro artículos IEEE de 2012–2014 indexados con la afiliación de la Universidade de São Paulo
 - GitHub: [roncanciovl](https://github.com/roncanciovl)
 - LinkedIn: [Henry Roncancio](https://www.linkedin.com/in/henry-roncancio-a7341015/)
 - ResearchGate: [Henry Antonio Roncancio](https://www.researchgate.net/profile/Henry-Roncancio-2) — perfil activo con afiliación principal a la Universidad Militar Nueva Granada, cuatro publicaciones sobre percepción y vehículos autónomos, y líneas actuales en ROS 2 y Embodied AI.

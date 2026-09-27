@@ -62,7 +62,8 @@ def profile_name(url):
     return {'github.com': 'GitHub', 'orcid.org': 'ORCID',
             'scholar.google.com': 'Google Scholar', 'www.linkedin.com': 'LinkedIn',
             'scienti.minciencias.gov.co': 'CvLAC',
-            'www.researchgate.net': 'ResearchGate'}.get(host, host or url)
+            'www.researchgate.net': 'ResearchGate',
+            'www.scopus.com': 'Scopus'}.get(host, host or url)
 
 
 def project(graph):

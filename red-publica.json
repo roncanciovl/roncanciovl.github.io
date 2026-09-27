@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "url": "https://roncanciovl.github.io/red-publica.json",
   "reviewed_at": "2026-09-21",
-  "source_sha256": "02cff00c6a561fd837b2640279132479701fcd0efc2f0d747fe412be7bc962ab",
+  "source_sha256": "538801d71931bf2c306b28fb11667336587e929b95b261ba781aedb77575a7ae",
   "source_url": "https://roncanciovl.github.io/",
   "jsonld_url": "https://roncanciovl.github.io/red-publica.jsonld",
   "scope": "Identidad, empresa, trayectoria, formación, competencias y producción pública.",
@@ -172,6 +172,7 @@
           "https://github.com/roncanciovl",
           "https://orcid.org/0009-0009-9954-9813",
           "https://scholar.google.com/citations?user=1iRSoqgAAAAJ",
+          "https://www.scopus.com/authid/detail.uri?authorId=55319860900",
           "https://www.linkedin.com/in/henry-roncancio-a7341015/",
           "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000005738",
           "https://www.economiaia.business/henry_roncancio.html",
@@ -1329,6 +1330,17 @@
       "reviewed_at": "2026-09-21"
     },
     {
+      "id": "https://www.scopus.com/authid/detail.uri?authorId=55319860900",
+      "type": "ProfilePage",
+      "name": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=55319860900",
+      "description": "Perfil de la misma persona; consultar la fuente externa.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-21"
+    },
+    {
       "id": "https://www.linkedin.com/in/henry-roncancio-a7341015/",
       "type": "ProfilePage",
       "name": "LinkedIn",
@@ -1923,6 +1935,13 @@
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://scholar.google.com/citations?user=1iRSoqgAAAAJ",
+      "relation": "sameAs",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-21"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://www.scopus.com/authid/detail.uri?authorId=55319860900",
       "relation": "sameAs",
       "evidence_url": "https://roncanciovl.github.io/",
       "reviewed_at": "2026-09-21"
