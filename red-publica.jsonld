@@ -45,6 +45,15 @@
           "@id": "https://roncanciovl.github.io/#conem-2012"
         },
         {
+          "@id": "https://roncanciovl.github.io/#article-ingenieria-2012"
+        },
+        {
+          "@id": "https://roncanciovl.github.io/#article-ingenieria-2002-laboratorio"
+        },
+        {
+          "@id": "https://roncanciovl.github.io/#article-ingenieria-2002-microanatomia"
+        },
+        {
           "@id": "https://roncanciovl.github.io/#sbein-2012"
         },
         {
@@ -744,6 +753,100 @@
       },
       "url": "https://roncanciovl.github.io/red-publica.html#sbein-2012",
       "description": "Publicación en coautoría registrada en la trayectoria académica. No se dispone de DOI en este perfil; consultar CvLAC."
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://roncanciovl.github.io/#article-ingenieria-2012",
+      "name": "Clasificador basado en Máquina de Vectores de Soporte Ajustada para Reconocimiento de Peatones en Tráfico Urbano",
+      "alternateName": "Tuned Support Vector Machine Classifier for Pedestrian Recognition in Urban Traffic",
+      "datePublished": "2012-12-28",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "PublicationIssue",
+        "issueNumber": "2",
+        "isPartOf": {
+          "@type": "PublicationVolume",
+          "volumeNumber": "17",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Ingeniería",
+            "issn": "2344-8393",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universidad Distrital Francisco José de Caldas"
+            }
+          }
+        }
+      },
+      "pageStart": "46",
+      "pageEnd": "54",
+      "author": {
+        "@id": "https://roncanciovl.github.io/#henry-roncancio"
+      },
+      "description": "Artículo en revista en coautoría. Consultar la página del artículo para la lista completa de autores.",
+      "url": "https://revistas.udistrital.edu.co/index.php/reving/article/view/3855"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://roncanciovl.github.io/#article-ingenieria-2002-laboratorio",
+      "name": "Laboratorio Remoto en la Educación de la Ingeniería",
+      "datePublished": "2002",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "PublicationIssue",
+        "issueNumber": "1",
+        "isPartOf": {
+          "@type": "PublicationVolume",
+          "volumeNumber": "7",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Ingeniería",
+            "issn": "2344-8393",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universidad Distrital Francisco José de Caldas"
+            }
+          }
+        }
+      },
+      "pageStart": "85",
+      "pageEnd": "87",
+      "author": {
+        "@id": "https://roncanciovl.github.io/#henry-roncancio"
+      },
+      "description": "Artículo en revista en coautoría. Consultar la página del artículo para la lista completa de autores.",
+      "url": "https://revistas.udistrital.edu.co/index.php/reving/article/view/2276"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://roncanciovl.github.io/#article-ingenieria-2002-microanatomia",
+      "name": "Segmentación de imágenes de microanatomía de madera mediante una clasificación multiescala basada en operaciones morfológicas",
+      "datePublished": "2002",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@type": "PublicationIssue",
+        "issueNumber": "2",
+        "isPartOf": {
+          "@type": "PublicationVolume",
+          "volumeNumber": "7",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Ingeniería",
+            "issn": "2344-8393",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universidad Distrital Francisco José de Caldas"
+            }
+          }
+        }
+      },
+      "pageStart": "64",
+      "pageEnd": "72",
+      "author": {
+        "@id": "https://roncanciovl.github.io/#henry-roncancio"
+      },
+      "description": "Artículo en revista en coautoría. Consultar la página del artículo para la lista completa de autores.",
+      "url": "https://revistas.udistrital.edu.co/index.php/reving/article/view/2820"
     }
   ]
 }
