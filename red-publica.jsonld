@@ -131,6 +131,9 @@
           "@id": "https://roncanciovl.github.io/#titulo-maestria"
         },
         {
+          "@id": "https://roncanciovl.github.io/#certificado-nvidia-dli-llm-2026"
+        },
+        {
           "@id": "https://roncanciovl.github.io/#certificado-hpc-2024"
         },
         {
@@ -475,6 +478,20 @@
       "dateCreated": "2014",
       "@id": "https://roncanciovl.github.io/#titulo-maestria",
       "url": "https://roncanciovl.github.io/red-publica.html#titulo-maestria"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "certificate",
+      "name": "Rapid Application Development with Large Language Models (LLMs)",
+      "description": "Certificado de competencia del NVIDIA Deep Learning Institute, taller práctico de AI Week LATAM 2026 aprobado con evaluación de código, 30 de septiembre de 2026.",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "NVIDIA Deep Learning Institute"
+      },
+      "dateCreated": "2026-09-30",
+      "sameAs": "https://learn.nvidia.com/certificates?id=-xCdhUytTEqhDaDaRSbTAA",
+      "@id": "https://roncanciovl.github.io/#certificado-nvidia-dli-llm-2026",
+      "url": "https://roncanciovl.github.io/red-publica.html#certificado-nvidia-dli-llm-2026"
     },
     {
       "@type": "EducationalOccupationalCredential",

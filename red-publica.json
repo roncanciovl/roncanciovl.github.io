@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "url": "https://roncanciovl.github.io/red-publica.json",
   "reviewed_at": "2026-09-21",
-  "source_sha256": "9cc2e7caeb4ac90424f0fd66c32bf3dc18541615a180e6183a591679d598bc18",
+  "source_sha256": "3549a25b42224b0e2daf33f1cc3514486f951839b7d1c1cf17857366f7d21c59",
   "source_url": "https://roncanciovl.github.io/",
   "jsonld_url": "https://roncanciovl.github.io/red-publica.jsonld",
   "scope": "Identidad, empresa, trayectoria, formación, competencias y producción pública.",
@@ -169,6 +169,9 @@
           },
           {
             "@id": "https://roncanciovl.github.io/#titulo-maestria"
+          },
+          {
+            "@id": "https://roncanciovl.github.io/#certificado-nvidia-dli-llm-2026"
           },
           {
             "@id": "https://roncanciovl.github.io/#certificado-hpc-2024"
@@ -746,6 +749,29 @@
         },
         "dateCreated": "2014",
         "url": "https://roncanciovl.github.io/red-publica.html#titulo-maestria"
+      }
+    },
+    {
+      "id": "https://roncanciovl.github.io/#certificado-nvidia-dli-llm-2026",
+      "type": "EducationalOccupationalCredential",
+      "name": "Rapid Application Development with Large Language Models (LLMs)",
+      "url": "https://roncanciovl.github.io/red-publica.html#certificado-nvidia-dli-llm-2026",
+      "description": "Certificado de competencia del NVIDIA Deep Learning Institute, taller práctico de AI Week LATAM 2026 aprobado con evaluación de código, 30 de septiembre de 2026.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-09-21",
+      "properties": {
+        "credentialCategory": "certificate",
+        "name": "Rapid Application Development with Large Language Models (LLMs)",
+        "description": "Certificado de competencia del NVIDIA Deep Learning Institute, taller práctico de AI Week LATAM 2026 aprobado con evaluación de código, 30 de septiembre de 2026.",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "NVIDIA Deep Learning Institute"
+        },
+        "dateCreated": "2026-09-30",
+        "sameAs": "https://learn.nvidia.com/certificates?id=-xCdhUytTEqhDaDaRSbTAA",
+        "url": "https://roncanciovl.github.io/red-publica.html#certificado-nvidia-dli-llm-2026"
       }
     },
     {
@@ -1701,6 +1727,13 @@
     {
       "source": "https://roncanciovl.github.io/#henry-roncancio",
       "target": "https://roncanciovl.github.io/#titulo-maestria",
+      "relation": "hasCredential",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-09-21"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#henry-roncancio",
+      "target": "https://roncanciovl.github.io/#certificado-nvidia-dli-llm-2026",
       "relation": "hasCredential",
       "evidence_url": "https://roncanciovl.github.io/",
       "reviewed_at": "2026-09-21"
