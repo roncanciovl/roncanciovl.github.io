@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "url": "https://roncanciovl.github.io/red-publica.json",
   "reviewed_at": "2026-09-21",
-  "source_sha256": "3549a25b42224b0e2daf33f1cc3514486f951839b7d1c1cf17857366f7d21c59",
+  "source_sha256": "c4b5daaf90d4a0555bd6cfda196420973e66165302ac01978fdb7030cb2b6995",
   "source_url": "https://roncanciovl.github.io/",
   "jsonld_url": "https://roncanciovl.github.io/red-publica.jsonld",
   "scope": "Identidad, empresa, trayectoria, formación, competencias y producción pública.",
@@ -1228,7 +1228,7 @@
     {
       "id": "https://roncanciovl.github.io/#rol-ultra",
       "type": "OrganizationRole",
-      "name": "Ingeniero de desarrollo — ULTRA S.A.",
+      "name": "Ingeniero de diseño — ULTRA S.A.",
       "url": "https://roncanciovl.github.io/red-publica.html#rol-ultra",
       "description": "Electrónica automotriz, sistemas embebidos y desarrollo y validación de prototipos AVL.",
       "sources": [
@@ -1236,15 +1236,15 @@
       ],
       "reviewed_at": "2026-09-21",
       "properties": {
-        "name": "Ingeniero de desarrollo — ULTRA S.A.",
-        "roleName": "Ingeniero de desarrollo",
+        "name": "Ingeniero de diseño — ULTRA S.A.",
+        "roleName": "Ingeniero de diseño",
         "startDate": "2004-05",
         "description": "Electrónica automotriz, sistemas embebidos y desarrollo y validación de prototipos AVL.",
         "url": "https://roncanciovl.github.io/red-publica.html#rol-ultra",
         "worksFor": {
           "@id": "https://roncanciovl.github.io/#ultra"
         },
-        "endDate": "2011-06"
+        "endDate": "2011-07"
       }
     },
     {
