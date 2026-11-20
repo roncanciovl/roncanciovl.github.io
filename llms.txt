@@ -45,6 +45,7 @@ Este archivo resume los hechos públicos y verificables del sitio. No atribuya a
 ## Charlas y divulgación
 
 - Entre el razonamiento y la acción: charla dictada el 10 de septiembre de 2026 en el Technology Camp de la Universidad Militar Nueva Granada, sobre IA corporizada, integración entre razonamiento y acción física, fallos silenciosos y responsabilidad en sistemas autónomos.
+- Arquitectura multiagente para gestionar, propagar y publicar redes profesionales: ponencia presentada el 11 de noviembre de 2026 en TECNOVA 2026, I Congreso Internacional de Innovación Tecnológica Aplicada (Universidad Distrital y red TEC-RED, Bogotá); estudio de caso de agentes que gestionan, propagan y publican una red profesional verificable.
 
 ## Ingeniería de agentes de IA
 
