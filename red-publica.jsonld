@@ -9,7 +9,7 @@
       "description": "Portafolio profesional y académico de Henry Antonio Roncancio Velandia.",
       "inLanguage": "es-CO",
       "dateCreated": "2026-07-22",
-      "dateModified": "2026-09-21",
+      "dateModified": "2026-11-20",
       "mainEntity": {
         "@id": "https://roncanciovl.github.io/#henry-roncancio"
       },
@@ -25,6 +25,9 @@
         },
         {
           "@id": "https://roncanciovl.github.io/#technology-camp-2026"
+        },
+        {
+          "@id": "https://roncanciovl.github.io/#tecnova-2026"
         },
         {
           "@id": "https://roncanciovl.github.io/#article-ivs-2014"
@@ -295,6 +298,31 @@
       },
       "organizer": {
         "@id": "https://roncanciovl.github.io/#umng"
+      },
+      "performer": {
+        "@id": "https://roncanciovl.github.io/#henry-roncancio"
+      }
+    },
+    {
+      "@type": "Event",
+      "@id": "https://roncanciovl.github.io/#tecnova-2026",
+      "name": "Arquitectura multiagente para gestionar, propagar y publicar redes profesionales",
+      "description": "Ponencia presentada en TECNOVA 2026: estudio de caso de una arquitectura multiagente que gestiona, propaga y publica una red profesional verificable.",
+      "startDate": "2026-11-11",
+      "superEvent": {
+        "@type": "Event",
+        "name": "TECNOVA 2026 — I Congreso Internacional de Innovación Tecnológica Aplicada",
+        "startDate": "2026-11-11",
+        "endDate": "2026-11-13",
+        "url": "https://congresotecnova.com/"
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Facultad Tecnológica, Universidad Distrital Francisco José de Caldas",
+        "address": "Bogotá, Colombia"
+      },
+      "organizer": {
+        "@id": "https://roncanciovl.github.io/#distrital"
       },
       "performer": {
         "@id": "https://roncanciovl.github.io/#henry-roncancio"
