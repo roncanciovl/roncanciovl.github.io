@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "url": "https://roncanciovl.github.io/red-publica.json",
   "reviewed_at": "2026-11-20",
-  "source_sha256": "45f0f4e5d9582ff7819468f6026e7f83e2ee8ad1af509426374a9faf683555cc",
+  "source_sha256": "09205a78d6d1d9875d21bf7b67eafca3bd017fa18cb4e994dd0493501542c61e",
   "source_url": "https://roncanciovl.github.io/",
   "jsonld_url": "https://roncanciovl.github.io/red-publica.jsonld",
   "scope": "Identidad, empresa, trayectoria, formación, competencias y producción pública.",
@@ -428,6 +428,40 @@
           "@id": "https://roncanciovl.github.io/#distrital"
         },
         "performer": {
+          "@id": "https://roncanciovl.github.io/#henry-roncancio"
+        }
+      }
+    },
+    {
+      "id": "https://roncanciovl.github.io/#maquinas-de-estados",
+      "type": "LearningResource",
+      "name": "Máquinas de estados finitos — clase introductoria de Sistemas Digitales I",
+      "url": "https://roncanciovl.github.io/maquinas-de-estados/presentacion/",
+      "description": "Material didáctico abierto: presentación interactiva con simulador de semáforo, estado, entrada y transición en notación UML, máquinas de Moore y Mealy y extensión a ROS 2, con ejemplos en Python.",
+      "sources": [
+        "https://roncanciovl.github.io/"
+      ],
+      "reviewed_at": "2026-11-20",
+      "properties": {
+        "name": "Máquinas de estados finitos — clase introductoria de Sistemas Digitales I",
+        "description": "Material didáctico abierto: presentación interactiva con simulador de semáforo, estado, entrada y transición en notación UML, máquinas de Moore y Mealy y extensión a ROS 2, con ejemplos en Python.",
+        "url": "https://roncanciovl.github.io/maquinas-de-estados/presentacion/",
+        "isBasedOn": "https://github.com/roncanciovl/maquinas-de-estados",
+        "learningResourceType": "Presentación interactiva",
+        "educationalLevel": "Pregrado en ingeniería",
+        "inLanguage": "es",
+        "datePublished": "2026-11-25",
+        "isAccessibleForFree": true,
+        "license": "https://www.apache.org/licenses/LICENSE-2.0",
+        "keywords": [
+          "máquinas de estados finitos",
+          "sistemas digitales",
+          "UML",
+          "Moore",
+          "Mealy",
+          "ROS 2"
+        ],
+        "author": {
           "@id": "https://roncanciovl.github.io/#henry-roncancio"
         }
       }
@@ -2017,6 +2051,13 @@
       "source": "https://roncanciovl.github.io/#tecnova-2026",
       "target": "https://roncanciovl.github.io/#henry-roncancio",
       "relation": "performer",
+      "evidence_url": "https://roncanciovl.github.io/",
+      "reviewed_at": "2026-11-20"
+    },
+    {
+      "source": "https://roncanciovl.github.io/#maquinas-de-estados",
+      "target": "https://roncanciovl.github.io/#henry-roncancio",
+      "relation": "author",
       "evidence_url": "https://roncanciovl.github.io/",
       "reviewed_at": "2026-11-20"
     },

@@ -329,6 +329,31 @@
       }
     },
     {
+      "@type": "LearningResource",
+      "@id": "https://roncanciovl.github.io/#maquinas-de-estados",
+      "name": "Máquinas de estados finitos — clase introductoria de Sistemas Digitales I",
+      "description": "Material didáctico abierto: presentación interactiva con simulador de semáforo, estado, entrada y transición en notación UML, máquinas de Moore y Mealy y extensión a ROS 2, con ejemplos en Python.",
+      "url": "https://roncanciovl.github.io/maquinas-de-estados/presentacion/",
+      "isBasedOn": "https://github.com/roncanciovl/maquinas-de-estados",
+      "learningResourceType": "Presentación interactiva",
+      "educationalLevel": "Pregrado en ingeniería",
+      "inLanguage": "es",
+      "datePublished": "2026-11-25",
+      "isAccessibleForFree": true,
+      "license": "https://www.apache.org/licenses/LICENSE-2.0",
+      "keywords": [
+        "máquinas de estados finitos",
+        "sistemas digitales",
+        "UML",
+        "Moore",
+        "Mealy",
+        "ROS 2"
+      ],
+      "author": {
+        "@id": "https://roncanciovl.github.io/#henry-roncancio"
+      }
+    },
+    {
       "@type": "ScholarlyArticle",
       "@id": "https://roncanciovl.github.io/#article-ivs-2014",
       "name": "Traversability analysis using terrain mapping and online-trained terrain type classifier",
